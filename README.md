@@ -47,7 +47,6 @@ mkdir server3 && cd server3
 echo "<h1>Server 1 (Port 8888, Weight=4)</h1>" > index.html
 python3 -m http.server 7777
 ```
-![Read](txt/2.txt)
 
 ![port](img/3serv.jpg)
 
