@@ -54,4 +54,6 @@ python3 -m http.server 7777
 
 ![2.2](img/2.2.jpg)
 
+![stat](img/stat.jpg)
+
 - [Конфиг HAProxy для задания 2](txt/2.txt)
