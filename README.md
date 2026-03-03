@@ -26,7 +26,7 @@ sudo apt install haproxy -y
 ![Serv2](img/4.jpg)
 ![Haproxy](img/2.jpg)
 
-![README](txt/1.txt)
+- [Конфиг HAProxy для задания 1](txt/1.txt)
 
 ## Задание 2
 ### Запустите три simple python сервера на своей виртуальной машине на разных портах
@@ -55,4 +55,4 @@ python3 -m http.server 7777
 
 ![2.2](img/2.2.jpg)
 
-![stat](img/stat.jpg)
+- [Конфиг HAProxy для задания 2](txt/2.txt)
